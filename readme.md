@@ -35,6 +35,8 @@ because they are easily testable. This is a line of reasoning often used in dail
 
 [R: ucr.edu](http://math.ucr.edu/home/baez/physics/General/occam.html)
 
+
+
 [R: howstuffworks.com](http://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
 
 #### [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
@@ -175,6 +177,22 @@ the anecdote, you can throw away the data."
 [R: explorable.com](https://explorable.com/hawthorne-effect)
 
 [R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
+
+
+
+
+
+
+#### [The Walking Corpse Syndrome](https://en.wikipedia.org/wiki/Cotard_delusion)
+
+> Delusional belief that the victim is already dead, does not exist, is putrefying, or has lost blood or internal organs
+
+This is a relatively rare syndrome existing in patients with depression, schizophrenia and psychotic disorder caused by a general medical condition, and it is often associated with dementia. The medical literature indicate that the occurrence of Cotard's delusion is associated with lesions in the parietal lobe. It was first described by Dr. Jules Cotard in 1882. The Longitudinal study in 1999 suggests that the syndrome has three stages: germination, blooming and chronic. In most cases of the walking coarpse syndrome, doctors found activity levels in large areas of frontal and parietal brain — areas involved in motor function, memory, and sensory information — extremely low, resembling someone in a vegetative state.
+
+Ref.1-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC383346/
+Ref.2-  www.medicaldaily.com/walking-corpse-syndrome-cotards-syndrome-mental-illness-3...
+Ref.3-  mentalfloss.com/article/50197/plight-living-dead-10-case-reports-cotard’s-syndrome
+
 
 
 ***
