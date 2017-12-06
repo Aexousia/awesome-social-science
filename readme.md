@@ -195,6 +195,26 @@ Ref.3-  mentalfloss.com/article/50197/plight-living-dead-10-case-reports-cotardâ
 
 
 
+
+#### [Multiple Personality Disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder)
+
+> Condition wherein a person's identity is fragmented into two or more distinct personality states.
+
+MPD is a rare mental disorder with 1% to 3% polpulation being affected. MPD is not due to the direct psychological effects of a substance or of a general medical condition. People with this rare condition are often victims of severe abuse. Some people describe this as an experience of possession. The person also experiences memory loss that is too extensive to be explained by ordinary forgetfulness.The various identities may deny knowledge of one another, be critical of one another or appear to be in open conflict.There is a general lack of consensus in the diagnosis and treatment of MPD and research on treatment effectiveness focuses mainly on clinical approaches described in case studies. Some behavior therapists initially use behavioral treatments such as only responding to a single identity, and then use more traditional therapy once a consistent response is established.
+
+R1- https://www.psychologytoday.com/conditions/dissociative-identity-disorder-multiple-personality-disorder
+R2- https://www.webmd.com/mental-health/dissociative-identity-disorder-multiple-personality-disorder
+R3- https://www.psycom.net/mchugh.html
+
+
+
+
+
+
+
+
+
+
 ***
 
 ## License
